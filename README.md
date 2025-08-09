@@ -2,7 +2,9 @@
 
 **JetJourney** is a modern, cross-platform travel booking mobile application built using React Native CLI. It allows users to browse, search, and book travel destinations with a clean and interactive interface.
 
----
+---ScreenShot Ui
+
+![image alt](https://github.com/Mohsinpadhan/JetJourney-Travel-Booking-App-/blob/475a8045d10e403690e582bd708ac6dd0c4c0acd/ui1.jpg)
 
 ## 🚀 Features
 
