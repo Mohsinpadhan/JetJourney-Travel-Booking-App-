@@ -12,6 +12,7 @@
 ![image alt](https://github.com/Mohsinpadhan/JetJourney-Travel-Booking-App-/blob/3c7099263f54a25e350977750e28e30948334c00/ui6%20(2).jpg)
 ![image alt](https://github.com/Mohsinpadhan/JetJourney-Travel-Booking-App-/blob/5c914f8b5957be20da4c3c07a6393b97effa0b23/ui7%20(2).jpg)
 ![image alt](https://github.com/Mohsinpadhan/JetJourney-Travel-Booking-App-/blob/e7368bb0b9d9fd2da13cc5937a5ee9b474c6338c/ui8.jpg)
+![image alt](https://github.com/Mohsinpadhan/JetJourney-Travel-Booking-App-/blob/5ea53fcb73a5587ec91527caa0ea88517c07c020/booking%20UI%2010.jpg)
 ![image alt](https://github.com/Mohsinpadhan/JetJourney-Travel-Booking-App-/blob/7abfe70a44c9736adddc22fe0bd0877284c3e156/ui9.jpg)
 
 
